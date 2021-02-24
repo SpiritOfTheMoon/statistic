@@ -1,18 +1,18 @@
 [submodule "statistic-client"]
 	path = apps/statistic-client
-	url = https://github.com/SpiritOfTheMoon/statistic-client.git
+	url = https://github.com/rcr-open-source/statistic-client.git
 [submodule "statistic-server"]
 	path = apps/statistic-server
-	url = https://github.com/SpiritOfTheMoon/statistic-server.git
+	url = https://github.com/rcr-open-source/statistic-server.git
 [submodule "statistic-client-relay"]
 	path = packages/statistic-client-relay
-	url = https://github.com/SpiritOfTheMoon/statistic-client-relay.git
+	url = https://github.com/rcr-open-source/statistic-client-relay.git
 [submodule "statistic-client-components"]
 	path = packages/statistic-client-components
-	url = https://github.com/SpiritOfTheMoon/statistic-client-components.git
+	url = https://github.com/rcr-open-source/statistic-client-components.git
 [submodule "statistic-server-core"]
 	path = packages/statistic-server-core
-	url = https://github.com/SpiritOfTheMoon/statistic-server-core.git
+	url = https://github.com/rcr-open-source/statistic-server-core.git
 [submodule "statistic-server-database"]
 	path = packages/statistic-server-database
-	url = https://github.com/SpiritOfTheMoon/statistic-server-database.git
+	url = https://github.com/rcr-open-source/statistic-server-database.git
