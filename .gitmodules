@@ -25,3 +25,6 @@
 [submodule "packages/statistic-server-graphql-logs-graphql"]
 	path = packages/statistic-server-graphql-logs-graphql
 	url = https://github.com/rcr-open-source/statistic-server-graphql-logs-graphql.git
+[submodule "packages/statistic-server-graphql-route"]
+	path = packages/statistic-server-graphql-route
+	url = https://github.com/rcr-open-source/statistic-server-graphql-route.git
