@@ -16,3 +16,12 @@
 [submodule "statistic-server-database"]
 	path = packages/statistic-server-database
 	url = https://github.com/rcr-open-source/statistic-server-database.git
+[submodule "packages/statistic-server-client-database"]
+	path = packages/statistic-server-client-database
+	url = https://github.com/rcr-open-source/statistic-server-client-database.git
+[submodule "packages/statistic-server-client-graphql"]
+	path = packages/statistic-server-client-graphql
+	url = https://github.com/rcr-open-source/statistic-server-client-graphql.git
+[submodule "packages/statistic-server-graphql-logs-graphql"]
+	path = packages/statistic-server-graphql-logs-graphql
+	url = https://github.com/rcr-open-source/statistic-server-graphql-logs-graphql.git
