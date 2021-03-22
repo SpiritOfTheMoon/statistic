@@ -4,7 +4,7 @@ import {
 
 } from '@umk-stat/statistic-client-relay';
 import {
-  DefaultButton, Dialog, DialogType, DialogFooter, PrimaryButton,
+  DefaultButton, Dialog, DialogFooter, PrimaryButton,
   ContextualMenu, TextField, ITextFieldStyles, IDialogProps, Spinner,
 } from '@fluentui/react';
 
@@ -43,8 +43,6 @@ export function CreateTargetDialog({ systemID, ...overProps }: CreateDialogTarge
   );
 
   const handleSubmit = () => {
-    overProps.onDismiss?.();
-
     commit(
       {
         variables: {
@@ -52,6 +50,7 @@ export function CreateTargetDialog({ systemID, ...overProps }: CreateDialogTarge
           systemID,
         },
         onCompleted: (response) => {
+          overProps.onDismiss?.();
           alert(`Новая цель ${response.createTarget.name} добавлена`);
         },
       },
