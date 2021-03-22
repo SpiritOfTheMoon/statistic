@@ -34,3 +34,4 @@
 [submodule "packages/statistic-client-modals"]
 	path = packages/statistic-client-modals
 	url = https://github.com/rcr-open-source/statistic-client-modals.git
+
