@@ -31,3 +31,6 @@
 [submodule "packages/statistic-server-system-graphql"]
 	path = packages/statistic-server-system-graphql
 	url = https://github.com/rcr-open-source/statistic-server-system-graphql.git
+[submodule "packages/statistic-client-modals"]
+	path = packages/statistic-client-modals
+	url = https://github.com/rcr-open-source/statistic-client-modals.git
