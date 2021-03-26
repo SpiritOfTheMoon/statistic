@@ -37,7 +37,7 @@
     "@types/react": "16.14.2"
   },
   "dependencies": {
-    "sequelize": "^6.5.1",
+    "sequelize": "^6.6.2",
     "sequelize-auto": "^0.8.1",
     "tedious": "^11.0.6"
   }
