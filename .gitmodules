@@ -34,4 +34,7 @@
 [submodule "packages/statistic-client-modals"]
 	path = packages/statistic-client-modals
 	url = https://github.com/rcr-open-source/statistic-client-modals.git
+[submodule "packages/statistic-event-register"]
+	path = packages/statistic-event-register
+	url = https://github.com/rcr-open-source/statistic-event-register.git
 
